@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan Pal</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h3 align="center">an UI/UX designer</h3>
 
 
 ## 🌐 Socials:
